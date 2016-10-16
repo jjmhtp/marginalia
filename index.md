@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<iframe width="100%" height="200px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+{% include index-content.md %}
 
 <div class="home">
 

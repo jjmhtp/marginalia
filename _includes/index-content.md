@@ -7,7 +7,6 @@ Das Folgende ist eine Sammlung von allerhand Müll, darunter Selbstgespräche un
 
 Es ist auch ein [Post-Privacy](https://de.wikipedia.org/wiki/Post-Privacy)-Experiment. Vorbild war auch das – mittlweile mit [irgendeinem Grimme-Preis ausgezeichnete](http://www.zeit.de/kultur/2011-06/grimme-online-award-3) – [Projekt von Zeit Online](http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten). Mit der Zeit soll auch Altes hinzukommen. Ich muss den CMS-Ersatz noch etwas verbessern. Und vor allem bedarf dies der Redaktion, um anderer Privacy nicht zu stören. Dafür muss ich anonymisieren, was mitunter gar nicht so einfach wirklich sauber möglich ist. Zu Post-Privacy andernorts mehr.
 <!-- TODO: link "andernorts" -->
-</header>
 
 <!-- TODO: why this?-->
 

@@ -3,6 +3,9 @@
 
 <!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->
 
+***This weblog is still unter construction.
+A better content organziation and layout have still to be written.***
+
 Das Folgende ist eine Sammlung von allerhand Müll, darunter Selbstgespräche und flow of consciousness und nun ein paar Postkarten aus der Neuen Welt und anderes mehr. „This is just a page that I publish things to when I'm bored, or put links to bits of information that I need to find again. A bit like a Weblog, but more random.“ [Sean B. Palmer](https://web.archive.org/web/20021220115928/http://infomesh.net/misc/)
 
 Es ist auch ein [Post-Privacy](https://de.wikipedia.org/wiki/Post-Privacy)-Experiment. Vorbild war auch das – mittlweile mit [irgendeinem Grimme-Preis ausgezeichnete](http://www.zeit.de/kultur/2011-06/grimme-online-award-3) – [Projekt von Zeit Online](http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten). Mit der Zeit soll auch Altes hinzukommen. Ich muss den CMS-Ersatz noch etwas verbessern. Und vor allem bedarf dies der Redaktion, um anderer Privacy nicht zu stören. Dafür muss ich anonymisieren, was mitunter gar nicht so einfach wirklich sauber möglich ist. Zu Post-Privacy andernorts mehr.

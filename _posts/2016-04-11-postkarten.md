@@ -405,6 +405,7 @@ Es gibt haufenweise Pinguecula wohl wegen des vielen Smogs.
 *… zur Kolonialkunst*
 
 Es gibt einiges zu berichten! Bloß wann? vielleicht ergänze ich es irgendwann, vielleicht nicht. An Bildthemata bekamen wir neben anderem an Besonderem ein Gemälde mit Mariensymbolen, das war glaube ich in Cuenca, ich muss das Photo noch einmal suchen. Folgendes hilft, die Ikonographie zu entschlüsseln – gerade kein LCI zu Hand leider:
+
 * <https://it.wikipedia.org/wiki/Titoli_mariani>
 * <https://de.wikipedia.org/wiki/Mariensymbol>
 * <http://www.iconclass.org/rkd/11L22/>

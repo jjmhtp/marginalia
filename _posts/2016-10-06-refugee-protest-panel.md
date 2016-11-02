@@ -1,8 +1,11 @@
 ---
+title: Refugee Protest Panel
 date: 2016-10-06
 ---
 
-Kenan Emini ist großartig!
+Die Kammerspiele haben ein Panel mit ein paar Aktivisten veranstaltet.
+Es war so lala.
+Aber Kenan Emini ist großartig!
 
 ## Transkript von der Romanistan Konferenz, Samstag, 26. November 2011, Depot, Wien
 Video unter <https://www.youtube.com/watch?v=-ALIhubGLv0>

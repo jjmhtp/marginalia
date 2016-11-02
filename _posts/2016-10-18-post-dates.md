@@ -1,5 +1,5 @@
 ---
-title: About this blog
+title: About this weblog
 date written: 2016-10-18 22:10
 ---
 

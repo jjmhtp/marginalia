@@ -32,3 +32,15 @@ github_username:  # jekyll
 # Build settings
 markdown: kramdown
 theme: minima
+
+# additions by jj adapted from
+# http://jekyllrb.com/docs/configuration/#front-matter-defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+

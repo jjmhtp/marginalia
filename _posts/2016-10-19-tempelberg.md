@@ -1,9 +1,7 @@
 ---
-title: Die UNESCO über den Tempelberg?
+title: Die UNESCO über den Tempelberg
 date: 2016-10-19 11:49
 ---
-
-{% include header.html %}
 
 # bei H. nachfragend:
 
@@ -49,6 +47,4 @@ jj, 11:49:
 * [Zeit Online](http://www.zeit.de/politik/2016-05/tempelberg-jerusalem-al-aksa-moschee-unesco-tuvia-tenenbom/komplettansicht)
 * [tagesschau.de](https://www.tagesschau.de/ausland/israel-unesco-103.html)
 * [n-tv](http://www.n-tv.de/politik/Israel-stoppt-Zusammenarbeit-mit-Unesco-article18863216.html)
-
-{% include footer.html %}
 

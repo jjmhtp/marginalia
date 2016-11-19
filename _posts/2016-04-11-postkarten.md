@@ -44,7 +44,7 @@ Noch europäische Zeit in den Knochen sind wir alle Tage früh aufgewacht und wa
 Aber zu den Museen später mehr!
 
 * *27.2., 13 Uhr*  Pazifik!
-* *27.2., 14 Uhr*  Sinkflug  Festland, Ecuador!
+* *27.2., 14 Uhr*  Sinkflug, Festland, Ecuador!
 * *27.2., 14:15 Uhr, 5 666 m ü. NN*  Seatbelts fasted, Notebook aus, Klappe zu.
 
 

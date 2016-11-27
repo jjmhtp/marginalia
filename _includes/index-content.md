@@ -3,8 +3,8 @@
 
 <!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->
 
-***This weblog is still unter construction.
-A better content organziation and layout have still to be written.***
+***This weblog is unter construction.
+A better content organziation and layout might be written somewhen.***
 
 Das Folgende ist eine Sammlung von allerhand Müll, darunter Selbstgespräche und flow of consciousness und nun ein paar Postkarten aus der Neuen Welt und anderes mehr. „This is just a page that I publish things to when I'm bored, or put links to bits of information that I need to find again. A bit like a Weblog, but more random.“ [Sean B. Palmer](https://web.archive.org/web/20021220115928/http://infomesh.net/misc/)
 
@@ -21,15 +21,21 @@ Einiges anderes findet sich bei [Flickr](https://www.flickr.com/photos/jjmhtp),
 [Github](github.com/jjmhtp)
 und andernorts
 
-<!--<figure>
-<a href="https://www.flickr.com/photos/jjmhtp/27711757764/in/dateposted/" title="Central Park"><img src="https://c5.staticflickr.com/9/8644/27711757764_5da3a31b1e_z.jpg" width="100%" alt="Central Park"></a>
-<figcaption>Im Central Park, NYC.</figcaption>
-</figure>-->
-<!-- sadly Github did not parse this -->
-
-
 <figure>
-<iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><!-- some workaround needed bc https://github.com/github/markup/issues/538 -->
-<figcaption>… und hier bei den: Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full window](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)<!-- TODO: not rendered correctly --></figcaption>
+<iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+<figcaption>… und hier bei den: Reiserouten (beta) (<a href=https://umap.openstreetmap.fr/en/map/jjs-movements_94451>full window</a>)</figcaption>
 </figure>
 
+Recently I listened to:
+<!-- recent listening start -->
+* Sidiki Diabaté - Fais moi confiance(27 Nov 2016, 19:27)
+* jay feat alicia keys - Empre State Of Mind Lyrics(27 Nov 2016, 18:13)
+* jay feat alicia keys - Empre State Of Mind Lyrics(27 Nov 2016, 18:03)
+* Concertgebouw Orchestra Amsterdam/ Sir Colin Davis - 1. Rêveries, passions: Largo - Allegro agatio e appassionato assai(27 Nov 2016, 16:43)
+* Michael Jackson - Much Too SoonMichael(27 Nov 2016, 16:02)
+* Cem Karaca - Resimdeki Gözyaşları(27 Nov 2016, 15:48)
+* Cem Karaca - Islak Islak(27 Nov 2016, 15:44)
+* Cem Karaca - Deniz Ã˛stÃπ KÃ¶pÃπrÃπr(27 Nov 2016, 15:39)
+* Cem Karaca - Bu Son OlsunBu Son Olsun(27 Nov 2016, 15:37)
+
+<!-- recent listening end -->

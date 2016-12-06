@@ -4,7 +4,8 @@
 <!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->
 
 ***This weblog is unter construction.
-A better content organziation and layout might be written somewhen.***
+A better content organziation and layout might be written somewhen.
+And please excuse the embedded third-party stuff, I plan to exchange it.***
 
 Das Folgende ist eine Sammlung von allerhand Müll, darunter Selbstgespräche und flow of consciousness und nun ein paar Postkarten aus der Neuen Welt und anderes mehr. „This is just a page that I publish things to when I'm bored, or put links to bits of information that I need to find again. A bit like a Weblog, but more random.“ [Sean B. Palmer](https://web.archive.org/web/20021220115928/http://infomesh.net/misc/)
 
@@ -23,11 +24,12 @@ und andernorts
 
 <figure>
 <iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
-<figcaption>… und hier bei den: Reiserouten (beta) (<a href=https://umap.openstreetmap.fr/en/map/jjs-movements_94451>full window</a>)</figcaption>
+<figcaption>… und hier bei den: Reiserouten (beta) (<a href="https://umap.openstreetmap.fr/en/map/jjs-movements_94451">full window</a>)</figcaption>
 </figure>
 
 Recently I listened to:
 <!-- recent listening start -->
+
 * Sidiki Diabaté - Fais moi confiance(27 Nov 2016, 19:27)
 * jay feat alicia keys - Empre State Of Mind Lyrics(27 Nov 2016, 18:13)
 * jay feat alicia keys - Empre State Of Mind Lyrics(27 Nov 2016, 18:03)

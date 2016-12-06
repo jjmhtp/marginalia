@@ -1,1 +1,14 @@
-# content to follow
+# PREFIXES
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix d: <http://www.wikidata.org/entity/> .
+
+[] a schema:MusicEvent ;
+    schema:startTime "2016-11-17T20:00:00+01:00:00"^^xsd:dateTime ;
+    schema:location :Herkulessaal ;
+    schema:url "https://www.br-klassik.de/programm/konzerte/ausstrahlung-721760.html" ;
+    schema:performer d:Q158340, d:Q1339670 ;
+    schema:attendee :jj .
+:Herkulessaal a schema:Place ;
+    schema:sameAs d:Q1310797 .
+
